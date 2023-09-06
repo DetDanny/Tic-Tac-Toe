@@ -5,7 +5,7 @@ package com.mycompany.tic.tac.toe;
 
 /**
  *
- * @author danie
+ * @author daniel
  */
 public class TicTacToe {
 
