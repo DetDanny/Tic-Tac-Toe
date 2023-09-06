@@ -6,7 +6,7 @@ package com.mycompany.tic.tac.toe;
 
 /**
  *
- * @author danie
+ * @author daniel
  */
 public class gui extends javax.swing.JFrame {
 
